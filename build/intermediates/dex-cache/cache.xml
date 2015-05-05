@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-collections4\4.0\da217367fd25e88df52ba79e47658d4cf928b0d1\commons-collections4-4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da217367fd25e88df52ba79e47658d4cf928b0d1">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\commons-collections4-4.0-62550b81bed03b52c77b3ed3bfd44a0e835ea7ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.5\6b262da268f8ad9eff941b25503a9198f0a0ac93\slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.5-8e8b4e54fe3b0b1092077bf54bdc0c7b41c2ec7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\commons-io-2.4-ad6d53c994aebf2a0c86fe1431f94a9822a2971b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\classes-b4bcf4196b9ac1d73545cb79b015871a38e17e94.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\commons-lang3-3.1-9e5f10c780cc4cc1e8ed612eb62d43c525d4d3b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\com.github.devnied.emvnfccard\library\2.1.1\ec7cb4d419988682129168f09276c4e0fdab9107\library-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec7cb4d419988682129168f09276c4e0fdab9107">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\library-2.1.1-8fbe6a4acd927f7197ed7e167bf02ba726b897b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\com.github.devnied\bit-lib4j\1.4.10\6041e3c68a52ae5d2ebdd047001110ca0683bd3d\bit-lib4j-1.4.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6041e3c68a52ae5d2ebdd047001110ca0683bd3d">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\bit-lib4j-1.4.10-755f106378fd1df07fc489a9d2f9b53b3497e3b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-114818cd7a45c2a2d90f00a0e42b77bf188b6a9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.7.5\6edffc576ce104ec769d954618764f39f0f0f10d\slf4j-log4j12-1.7.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6edffc576ce104ec769d954618764f39f0f0f10d">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\slf4j-log4j12-1.7.5-0051e3e2b9b158c12acefc668ef474d34a0602c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.17\5af35056b4d257e4b64b9e8069c0746e8b08629f\log4j-1.2.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\log4j-1.2.17-45c5ceb5b793c92354f543687921a6ce830c8b58.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\classes-1facad34667e4e1da6a2ee690401220b2b7b3518.jar" />
+    </item>
+    <item
+        jar="C:\Users\ÆgirMár\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\ÆgirMár\AndroidStudioProjects\posi\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-1a72717a153aca366d91080a1420ebe3671096f1.jar" />
+    </item>
+
+</items>
